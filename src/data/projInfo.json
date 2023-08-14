@@ -1,10 +1,10 @@
 {
 	"$schema": "./projInfo-schema.json",
 
-	"title": "Profectus",
+	"title": "Comple Core",
 	"description": "A project made in Profectus",
-	"id": "",
-	"author": "",
+	"id": "h4zardz1:comple_core",
+	"author": "H4zardZ1",
 	"discordName": "",
 	"discordLink": "",
 
