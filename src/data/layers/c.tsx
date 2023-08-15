@@ -46,3 +46,5 @@ const layer = createLayer(id, function (this: BaseLayer) {
         ))
     }
 })
+
+export default layer
